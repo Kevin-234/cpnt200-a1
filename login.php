@@ -7,6 +7,7 @@ $page_title = 'Login page';
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- head -->
   <?php include("includes/head.php")?>
   <link rel="stylesheet" href="assets/css/login.css">
 </head>
@@ -53,6 +54,7 @@ $page_title = 'Login page';
   </form>
   </main>
 
+  <!-- footer -->
   <?php include("includes/footer.php")?>
 </body>
 </html>

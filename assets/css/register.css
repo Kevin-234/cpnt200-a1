@@ -105,7 +105,7 @@ button {
 }
 
 /*  TODO: FIX THE Go back to home position */
-.Goback {
+.goback {
   height: 3rem;
   display: flex;
   justify-content: flex-start;

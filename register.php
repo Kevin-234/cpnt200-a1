@@ -7,6 +7,7 @@ $page_title = 'Register page';
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- head -->
     <?php include("includes/head.php")?>
     <link rel="stylesheet" href="assets/css/register.css">
   </head>
@@ -39,7 +40,7 @@ $page_title = 'Register page';
  
           </div>  
               <button type="button" class="btn"><a href="#">Submit</a></button>
-            <div class="Goback">
+            <div class="goback">
               <ul class="guide-link">
                 <li><a href="index.html">Go back to Home</a></li>        
               </ul>
@@ -49,6 +50,7 @@ $page_title = 'Register page';
       </form>
     </main>
 
+   <!-- footer -->
     <?php include("includes/footer.php")?>
   </body>
 </html>

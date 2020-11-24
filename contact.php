@@ -7,6 +7,7 @@ $page_title = 'Contact page';
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- head -->
   <?php include("includes/head.php")?>    
 
   <link rel="stylesheet" href="assets/css/contact.css">
@@ -89,7 +90,7 @@ $page_title = 'Contact page';
     </fieldset>
   </form>
    
-  
+  <!-- footer -->
   <?php include("includes/footer.php")?>
 </body>
 </html>

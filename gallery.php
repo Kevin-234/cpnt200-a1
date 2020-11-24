@@ -7,6 +7,7 @@ $page_title = 'Gallery page';
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- haed -->
   <?php include("includes/head.php")?>
   <link rel="stylesheet" href="assets/css/gallery.css">
 </head>
@@ -107,6 +108,7 @@ $page_title = 'Gallery page';
     </section>
   </main>
    
+  <!-- footer -->
   <?php include("includes/footer.php")?>
 </body>
 </html>

@@ -7,7 +7,7 @@ $page_title = 'Home page';
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
+  <!-- head -->
   <?php include("includes/head.php")?>
   <link rel="stylesheet" href="assets/css/home.css">
 
@@ -24,6 +24,7 @@ $page_title = 'Home page';
     </div>
   </main>
    
+  <!-- footer -->
   <?php include("includes/footer.php")?>
 </body>
 </html>
